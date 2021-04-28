@@ -8,7 +8,7 @@
   "tokens":[
     {
       "chainId":1,
-      "address":"0x104aF0D0c25765E5a7D8B76BFFF7D33AC356120:1",
+      "address":"0x104aF0D0c25765E5a7D8B76BFFF7D33AC3561201",
       "name":"PwnToken",
       "symbol":"PWN",
       "decimals":18
