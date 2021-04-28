@@ -1,0 +1,29 @@
+{
+  "name":"pwn-list",
+  "logoURI":"https://www.coingecko.com/assets/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "keywords":[
+    "pwn"
+  ],
+  "timestamp":"2021-04-28T07:00:01.308+00:00",
+  "tokens":[
+    {
+      "chainId":1,
+      "address":"0x104aF0D0c25765E5a7D8B76BFFF7D33AC356120:1",
+      "name":"PwnToken",
+      "symbol":"PWN",
+      "decimals":18
+    },
+    {
+      "chainId":1,
+      "address":"0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6",
+      "name":"sBTC",
+      "symbol":"SBTC",
+      "decimals":18
+    }
+  ],
+  "version":{
+    "major":0,
+    "minor":0,
+    "patch":0
+  }
+}
